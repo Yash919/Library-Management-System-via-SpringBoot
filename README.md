@@ -14,7 +14,6 @@ This project is a Library Management System implemented using Spring Boot. It pr
 - **MySQL**: An open-source relational database management system used for storing application data.
 - **Maven**: A build automation tool used primarily for Java projects to manage dependencies and build processes.
 
-
 ## Screenshots
 
 **Home Page** 
@@ -46,6 +45,5 @@ This project is a Library Management System implemented using Spring Boot. It pr
 - Delete Authors
 <img width="1512" alt="image" src="https://github.com/Yash919/Library-Management-System-via-SpringBoot/assets/60219195/b028ab5f-6eca-4113-b6e6-6b7894cf43a8">
 
-
 #### Credits <br> 
-This project was created by Yash Mehta 🚀.
+Created by Yash Mehta 🚀.
